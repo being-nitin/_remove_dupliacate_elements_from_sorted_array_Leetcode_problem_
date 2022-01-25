@@ -65,3 +65,4 @@ public class Main {
         return j+1;
     }
 }
+// as above the array will consist both that is, unique elements and zeroes.
